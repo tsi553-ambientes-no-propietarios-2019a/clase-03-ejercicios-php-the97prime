@@ -10,5 +10,5 @@ for($i=0;$i<=2;$i++){
     echo "$cadena";
     echo'<br>';
 }
-    
+
 ?>
