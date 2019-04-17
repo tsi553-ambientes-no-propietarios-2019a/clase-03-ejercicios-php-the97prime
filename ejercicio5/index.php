@@ -12,8 +12,6 @@ Para imprimir el contenido de una variable también utilizamos el comando echo:
 
 echo $num;
  */
-
-<?php
   $num=rand(1,100);
   echo "<h1>El numero es:$num</h1>";
   echo "<br>";
